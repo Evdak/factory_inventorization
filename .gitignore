@@ -1,0 +1,8 @@
+
+*.sqlite3
+
+./__pycache__/
+
+factory_inventorization/__pycache__/
+
+inventory/__pycache__/
